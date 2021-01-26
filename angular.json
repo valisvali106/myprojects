@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "samplegroceryapp"
+  "defaultProject": "samplegroceryapp",
+  "cli": {
+    "analytics": "a3092455-6157-452b-9a23-f0a631d8534b"
+  }
 }
